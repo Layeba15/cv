@@ -61,19 +61,17 @@ img{
 }
 .top{
   background-color: #b3d9ff;
-  height: 25px;
   width: 1519px;
 }
 .middle{
   background-image: url(im.webp);
-  height:540px;
   width: 1519px;
+  height: 500px;
   align-items:center;
 }
 .bottom{
   background-color:#a4fd68;
   width: 1519px;
-  height: 750px;
 }
 .b1{
   width: 200px;
