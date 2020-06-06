@@ -23,13 +23,13 @@ img{
 .img1{
   margin: 0;
   height: 150px;
-  width: 150px;
+  width: 100%;
   border-radius: 50%;
 }
 .img2{
   margin: 0;
   height: 150px;
-  width: 150px;
+  width: 100%;
   border-radius: 60%;
 }
 .p1{
